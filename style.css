@@ -107,7 +107,7 @@ body {
     border: solid #A435F0 1px;
 }
 .categories p:hover{
-    /*gittransition: 1s;*/
+    /*transition: 1s;*/
     transform: scale(1.05);
     background-color: transparent;
     color: #050505;
