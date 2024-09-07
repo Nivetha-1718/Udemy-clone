@@ -107,7 +107,8 @@ body {
     border: solid #A435F0 1px;
 }
 .categories p:hover{
-    transition: 1s;
+    /*gittransition: 1s;*/
+    transform: scale(1.05);
     background-color: transparent;
     color: #050505;
     border: solid #A435F0 1px;
@@ -133,7 +134,6 @@ body {
     background-color: black;
     color: white;
 }
-
 .navbar__s5 p {
     background-color: slategrey;
     color: white;
