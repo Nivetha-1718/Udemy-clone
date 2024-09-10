@@ -17,7 +17,7 @@ Welcome to the Udemy Clone project! This static web application replicates the l
 - **Google Fonts:** Applied for enhanced typography and custom font styles.
   
 ## Live Demo
- Check out the live version of the Udemy clone website []
+ Check out the live version of the Udemy clone website [https://nivetha-1718.github.io/udemy-clone/]
  
 ## CSS Styles
 - **Global Styles:** Applies a reset to padding and margin for a consistent base across all elements.
